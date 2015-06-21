@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="template.cpp">
+      <Filter>Template</Filter>
+    </ClCompile>
+    <ClCompile Include="Core.cpp">
+      <Filter>Core</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenu.cpp">
+      <Filter>MainMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="OptionsMenu.cpp">
+      <Filter>OptionsMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="GameStateFunctions.cpp">
+      <Filter>GameStateFunctions</Filter>
+    </ClCompile>
+    <ClCompile Include="GameStateStack.cpp">
+      <Filter>GameStateStack</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>Button</Filter>
+    </ClCompile>
+    <ClCompile Include="Text.cpp">
+      <Filter>Text</Filter>
+    </ClCompile>
+    <ClCompile Include="GameLevel.cpp">
+      <Filter>GameLevel</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Player</Filter>
+    </ClCompile>
+    <ClCompile Include="AGK_Delete.cpp">
+      <Filter>AGK_Delete</Filter>
+    </ClCompile>
+    <ClCompile Include="TilesManager.cpp">
+      <Filter>TilesManager</Filter>
+    </ClCompile>
+    <ClCompile Include="RandomSeedManager.cpp">
+      <Filter>RandomSeedManager</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageSpriteManager.cpp">
+      <Filter>SpriteImageManager</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Template">
+      <UniqueIdentifier>{ea9d2b03-d758-4de2-9d54-fe8eaad8a870}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core">
+      <UniqueIdentifier>{59cd8a99-687b-40cc-8c32-81ba4f8f6578}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainMenu">
+      <UniqueIdentifier>{aa67a303-09fc-476d-ab27-cba4b71ecd1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OptionsMenu">
+      <UniqueIdentifier>{8ed99148-a160-46c8-997f-62e7d6564283}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameStateFunctions">
+      <UniqueIdentifier>{f7ac6d59-4296-4d53-a37b-73a46c3e0d85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameStateStack">
+      <UniqueIdentifier>{b3b96de1-4ea6-4e82-9bc8-a44d8f5da794}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Button">
+      <UniqueIdentifier>{53dd74ba-937f-4be0-bbb6-95765de2d4b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Text">
+      <UniqueIdentifier>{3f44c91f-f271-459c-b95b-1bf3b1a8f3dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameLevel">
+      <UniqueIdentifier>{a5d98baa-68aa-4765-ba39-249d6c4f1d5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Player">
+      <UniqueIdentifier>{b7be1067-b64f-4475-bf9a-81a9b9a76fdd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AGK_Delete">
+      <UniqueIdentifier>{8a258401-f915-4a9b-bde5-b617a61c72a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TilesManager">
+      <UniqueIdentifier>{d5b49c2c-ec00-4aa5-a395-f945238f0b76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RandomSeedManager">
+      <UniqueIdentifier>{386c2b8e-8976-411d-9787-8b9c38e96966}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SpriteImageManager">
+      <UniqueIdentifier>{a467f939-d72a-4428-93d7-4fcc6ec2bfdd}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="template.h">
+      <Filter>Template</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu.h">
+      <Filter>MainMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="OptionsMenu.h">
+      <Filter>OptionsMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="GameStateFunctions.h">
+      <Filter>GameStateFunctions</Filter>
+    </ClInclude>
+    <ClInclude Include="GameStateStack.h">
+      <Filter>GameStateStack</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Button</Filter>
+    </ClInclude>
+    <ClInclude Include="Text.h">
+      <Filter>Text</Filter>
+    </ClInclude>
+    <ClInclude Include="GameLevel.h">
+      <Filter>GameLevel</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="AGK_Delete.h">
+      <Filter>AGK_Delete</Filter>
+    </ClInclude>
+    <ClInclude Include="TilesManager.h">
+      <Filter>TilesManager</Filter>
+    </ClInclude>
+    <ClInclude Include="RandomSeedManager.h">
+      <Filter>RandomSeedManager</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageSpriteManager.h">
+      <Filter>SpriteImageManager</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
